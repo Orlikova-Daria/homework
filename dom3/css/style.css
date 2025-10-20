@@ -1,0 +1,52 @@
+.homework {
+  font-family: "Open Sans", "Arial", sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: left;
+  font-weight: 300;
+  font-style: italic;
+} 
+
+.homework2 {
+  font-family:"Times New Roman" serif;
+  font-size: 50px;
+  line-height: 30px;
+  text-align: left;
+  font-weight: 200;
+  font-style: italic;
+  text-decoration: line-through;
+}
+
+.homework3 {
+  font-family:"Times New Roman" serif;
+  font-size: 40px;
+  line-height: 40px;
+  text-align: center;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: solid;
+}
+
+.homework4 {
+  font-family:"BBH Sans Hegarty", sans-serif;
+  font-size: 30px;
+  line-height: 40px;
+  text-align: left;
+  font-weight: 200;
+  font-style: normal;
+  text-decoration: overline wavy;
+  color: blueviolet;
+  word-spacing: 30px;
+  
+}
+
+.homework5 {
+  font-family:"Montserrat", sans-serif;
+  font-size: 30px;
+  line-height: 40px;
+  text-align: left;
+  font-weight: 100;
+  font-style: normal;
+  text-decoration: underline double;
+  letter-spacing: 5px;
+}
